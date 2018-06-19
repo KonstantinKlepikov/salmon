@@ -5,6 +5,7 @@ import versioneer
 
 install_requires = [
     'chardet',
+    'click',
     'dnspython',
     'lmtpd>=4',
     # python-daemon developer insists that docutils should be a setup_requires
